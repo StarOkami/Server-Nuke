@@ -1,2 +1,1 @@
-# Geometry-game
-# This is a test
+# Geometry game
