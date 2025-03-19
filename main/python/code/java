@@ -1,0 +1,9 @@
+public class nuke(){
+    public void usenuke(){
+        getServer().getScheduler().scheduleSyncRepeatingTask(this, new Runnable() {
+            public void run() {
+                getServer().sendMessage("Did you Know that France isn't real! It is a illusion made by Canada! oh, by the way...this is a message from an outside user, hacking into the server. log off now or be forever frozen.")
+            }
+        }
+    }
+}, 1, 1);
