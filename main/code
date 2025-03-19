@@ -1,3 +1,4 @@
-i = "I have hacked into your server. This messege will repeat: Remember, the worth of your soul is great in the sight of god. Have a fun day"
+i = "France Isn't Real!"
 while True:
     print(i)
+    
